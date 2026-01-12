@@ -1,3 +1,5 @@
+Authors: Artner Patrick, Dedinak Sebastian with template used:
+
 # Polygon Drawing template
 
 This repository is based on the [Feliz](https://github.com/Zaid-Ajaj/Feliz) and uses [Fable](http://fable.io/) for transpiling F# code to JS.
